@@ -24,4 +24,13 @@ public class commons {
         System.out.print("我a444455556666f77777777哦");
     }
 
+    private static void test8() {
+        System.out.print("我a444455556666f77777777哦");
+    }
+
+    private static void test9() {
+        System.out.print("我a444455556666f77777777哦");
+    }
+
+
 }
