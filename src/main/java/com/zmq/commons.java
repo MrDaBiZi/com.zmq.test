@@ -20,4 +20,8 @@ public class commons {
         System.out.print("我a444455556666f77777777哦");
     }
 
+    private static void test7() {
+        System.out.print("我a444455556666f77777777哦");
+    }
+
 }
