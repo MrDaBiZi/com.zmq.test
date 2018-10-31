@@ -16,4 +16,8 @@ public class commons {
         System.out.print("我哦");
     }
 
+    private static void test3() {
+        System.out.print("我哦");
+    }
+
 }
