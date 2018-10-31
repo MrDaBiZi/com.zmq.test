@@ -7,4 +7,13 @@ public class commons {
     private static void test() {
         System.out.print("我哦");
     }
+
+    private static void test1() {
+        System.out.print("我哦");
+    }
+
+    private static void test2() {
+        System.out.print("我哦");
+    }
+
 }
